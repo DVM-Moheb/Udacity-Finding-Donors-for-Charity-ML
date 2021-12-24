@@ -10,7 +10,7 @@
 > - **Featureset Exploration**:
 >> * age: continuous.
 >> * workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
->> * education: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, >> * >> >> * Masters, 1st-4th, 10th, Doctorate, 5th-6th, Preschool.
+>> * education: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th, Preschool.
 >> * education-num: continuous.
 >> * marital-status: Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse.
 >> * occupation: Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces.
@@ -25,4 +25,5 @@
 ## Objectives:
 
 > - Several supervised algorithms were applied to accurately model individuals' income using data collected from the 1994 U.S. Census.
-> - The best candidate algorithm was choosen from preliminary results with further optimization to best model the data. > - The goal with this implementation is to construct a model that accurately predicts whether an individual makes more than $50,000.
+> - The best candidate algorithm was choosen from preliminary results with further optimization to best model the data.
+> - The goal with this implementation is to construct a model that accurately predicts whether an individual makes more than $50,000.
