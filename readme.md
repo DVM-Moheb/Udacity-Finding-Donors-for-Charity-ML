@@ -27,3 +27,13 @@
 > - Several supervised algorithms were applied to accurately model individuals' income using data collected from the 1994 U.S. Census.
 > - The best candidate algorithm was choosen from preliminary results with further optimization to best model the data.
 > - The goal with this implementation is to construct a model that accurately predicts whether an individual makes more than $50,000.
+
+## Implementation:
+
+> - Data pre-processing.
+> - Selecting features & splitting the data into train & test sets.
+> - Choosing the right metric(s).
+> - Benchmarking.
+> - Choosing the right classifier.
+> - tuning hyperparameters.
+> - Evaluating performance.
